@@ -1,0 +1,7 @@
+# Ignore cache
+__pycache__
+.pytest_cache
+
+# 📄 Logs
+*.log
+logs/
