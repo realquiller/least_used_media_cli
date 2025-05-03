@@ -8,8 +8,6 @@ Originally created to improve my own DaVinci Resolve workflow, this project help
 
 ## ✨ Features
 
-## ✨ Features
-
 - `-l`, `--limit` — Show only the first N results
 - `-f`, `--folder` — Specify a subfolder inside your media folder
 - `-r`, `--random` — Shuffle results to increase variety
